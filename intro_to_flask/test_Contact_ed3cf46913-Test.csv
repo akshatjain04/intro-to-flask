@@ -1,0 +1,11 @@
+subject,sender,recipients,name,email,message
+"Meeting Request","John Doe","Jane Smith, Bob Johnson","John Doe","john.doe@example.com","Looking forward to our meeting."
+"Project Update","Jane Smith","John Doe, Bob Johnson","Jane Smith","jane.smith@example.com","Progress is on track."
+"Budget Review","Bob Johnson","John Doe, Jane Smith","Bob Johnson","bob.johnson@example.com","Please review the attached budget."
+"Vacation Request","John Doe","Jane Smith","John Doe","john.doe@example.com","I would like to request time off next month."
+"Sales Report","Jane Smith","Bob Johnson","Jane Smith","jane.smith@example.com","Please see the attached sales report."
+"Team Meeting","Bob Johnson","John Doe, Jane Smith","Bob Johnson","bob.johnson@example.com","Please confirm your availability for a team meeting next week."
+"Client Feedback","John Doe","Jane Smith, Bob Johnson","John Doe","john.doe@example.com","The client was very pleased with our work."
+"Marketing Plan","Jane Smith","John Doe","Jane Smith","jane.smith@example.com","I have attached the marketing plan for next quarter."
+"Performance Review","Bob Johnson","John Doe, Jane Smith","Bob Johnson","bob.johnson@example.com","Please prepare for your performance review next week."
+"Product Launch","John Doe","Jane Smith, Bob Johnson","John Doe","john.doe@example.com","Exciting news about our product launch!"
